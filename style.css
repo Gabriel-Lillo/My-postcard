@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+
+.postcard {
+    background-color: #ffffff;
+    height: 330px;
+    width: 410px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.up {
+    width: 400px;
+    height: 70px;
+}
+
+h1 {
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+img {
+    float: left;
+    height: 60px;
+    width: 60px;
+}
+
+.cuerpo {
+    width: 400px;
+    height: 180px;
+    margin: 0px;
+
+}
+
+.texto {
+    width: 200px;
+    height: 180px;
+    font-family:'Indie Flower', cursive;
+    float: left;
+}
+
+.input {
+    width: 200px;
+    height: 180px;
+    float: right;
+
+}
+ .pie {
+     text-align: center;
+ }

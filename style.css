@@ -5,27 +5,28 @@ body {
 
 .postcard {
     background-color: #ffffff;
-    height: 330px;
-    width: 410px;
+    height: 350px;
+    width: 430px;
     margin: auto;
     margin-top: 100px;
 }
 
 .up {
-    width: 400px;
+    float: left;
+    width: 200px;
+    height: 70px;
+    padding-left: 15px;
+}
+
+.imagen{
+    float: right;
+    width: 90px;
     height: 70px;
 }
 
-h1 {
-    padding: 10px;
-    font-family: 'Indie Flower', cursive;
-
-}
-
 img {
-    float: left;
-    height: 60px;
-    width: 60px;
+    height: 70px;
+    width: 70px;
 }
 
 .cuerpo {
@@ -38,7 +39,6 @@ img {
 .texto {
     width: 200px;
     height: 180px;
-    font-family:'Indie Flower', cursive;
     float: left;
 }
 
@@ -49,5 +49,6 @@ img {
 
 }
  .pie {
+     padding-top: 10px;
      text-align: center;
  }
